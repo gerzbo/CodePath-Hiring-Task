@@ -17,4 +17,5 @@ Our [resources page](https://support.codepath.com/knowledge_base/topics/how-can-
 If you have any questions or need further guidance, please don't hesitate to reach out. We're here to provide support and assistance, and we genuinely wish you the best in your upcoming graduation and your future endeavors.
 
 All the best,
+
 CodePath.org Team

@@ -9,4 +9,5 @@ As you know, complete and on-time assignment submission is core to our education
 Would you like to use this assignment for your 1 allowed late assignment? If so, **you need to submit your assignment with all required stories completed within 24 hours after this notice.** Please let us know as soon as possible what your plan is with this assignment and the course moving forward.
 
 All the best,
+
 CodePath.org Team
