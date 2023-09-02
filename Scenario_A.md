@@ -22,5 +22,6 @@ If you have any concerns or questions about the program, please don't hesitate t
 Thank you for your understanding, and we look forward to having you as part of our program.
 
 All the best,
+
 CodePath.org Team
 
